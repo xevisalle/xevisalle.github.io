@@ -6,6 +6,14 @@ He holds a Master’s degree in ICT Security by UOC-UAB-URV, and is graduated in
 
 His main research interests are **applied cryptography** and **wireless networks security**. He is currently developing his PhD thesis on how to implement efficient Zero-Knowledge proving systems in embedded systems, with the aim of deploying self-sovereign authentication in different scenarios like mobile communications and Internet of Things (IoT).
 
+## Software
+
+**[ZPiE](https://github.com/xevisalle/zpie).** A portable and efficient C library for developing Zero-Knowledge applications for embedded systems.
+
+**[CryptoolZ](https://github.com/xevisalle/cryptoolz).** A bunch of cryptographic primitives coded in C, intended to be used (but not limited to) in Zero-Knowledge applications.
+
+**[LASER](https://github.com/xevisalle/laser).** Implementation of a secure authentication protocol for Remote Keyless Entry (RKE) systems.
+
 ## Publications
 
 ### 2020
