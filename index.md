@@ -16,6 +16,10 @@ His main research interests are **applied cryptography** and **wireless networks
 
 ## Publications
 
+### 2021
+
+Federico Franzoni, Xavier Salleras and Vanesa Daza. _AToM: Active Topology Monitoring for the Bitcoin Peer-to-Peer Network_. Special issue on Blockchain of the journal *Peer to Peer Networking and Applications*. 2021.
+
 ### 2020
 
 Xavier Salleras, Vanesa Daza. _SANS: Self-sovereign Authentication for Network Slices_. Special issue *Trustworthy Networking for Beyond 5G Networks 2020* of the journal *Security and Communication Networks*.
