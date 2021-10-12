@@ -18,6 +18,8 @@ His main research interests are **applied cryptography** and **wireless networks
 
 ### 2021
 
+Xavier Salleras, Vanesa Daza. _ZPiE: Zero-knowledge Proofs in Embedded systems_. Special issue *Recent Advances in Security, Privacy, and Applied Cryptography* of the journal *Mathematics* (2021).
+
 Federico Franzoni, Xavier Salleras and Vanesa Daza. _AToM: Active Topology Monitoring for the Bitcoin Peer-to-Peer Network_. Special issue on Blockchain of the journal *Peer to Peer Networking and Applications*. 2021.
 
 ### 2020
