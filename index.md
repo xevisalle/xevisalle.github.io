@@ -1,6 +1,6 @@
 ## Bio
 
-Xavier Salleras is a PhD student in Applied Cryptography at Pompeu Fabra University (UPF). Member of the WiSeCom group and professor of Cryptography and Security at UPF.
+Xavier Salleras is a Cryptography Researcher at [Dusk Network](https://dusk.network/), working mainly on Zero-Knowledge Proofs. He is also a PhD student in Applied Cryptography at Pompeu Fabra University (UPF). Member of the WiSeCom group and professor of Cryptography and Security at UPF.
 
 He holds a Master’s degree in ICT Security by UOC-UAB-URV, and is graduated in Audiovisual Systems Engineering by UPF.
 
