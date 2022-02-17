@@ -16,6 +16,10 @@ His main research interests are **applied cryptography** and **wireless networks
 
 ## Publications
 
+### 2022
+
+Xavier Salleras, Sergi Rovira, Vanesa Daza. _FORT: Right-Proving and Attribute-Blinding Self-Sovereign Authentication_. Special issue *Advances in Blockchain Technology* of the journal *Mathematics* (2022).
+
 ### 2021
 
 Xavier Salleras, Vanesa Daza. _ZPiE: Zero-knowledge Proofs in Embedded systems_. Special issue *Recent Advances in Security, Privacy, and Applied Cryptography* of the journal *Mathematics* (2021).
