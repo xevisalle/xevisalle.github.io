@@ -4,7 +4,7 @@ Xavier Salleras is a Cryptography Researcher at [Dusk](https://dusk.network/), w
 
 He also holds a Master’s degree in ICT Security by UOC-UAB-URV, and is graduated in Audiovisual Systems Engineering by UPF.
 
-His main research interests are **applied cryptography** and **wireless networks security**. He is developed his PhD [thesis](https://www.tdx.cat/handle/10803/687975#page=1) on how to implement efficient Zero-Knowledge proving systems in embedded systems, with the aim of deploying self-sovereign authentication in different scenarios like mobile communications and Internet of Things (IoT).
+His main research interests are **applied cryptography** and **wireless networks security**. He developed his PhD [thesis](https://www.tdx.cat/handle/10803/687975#page=1) on how to implement efficient Zero-Knowledge proving systems in embedded systems, with the aim of deploying self-sovereign authentication in different scenarios like mobile communications and Internet of Things (IoT).
 
 ## Software
 
