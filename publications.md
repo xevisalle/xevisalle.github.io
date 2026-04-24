@@ -7,6 +7,19 @@ title: Publications
 
 <div class="pub-list">
   <div class="year-group">
+    <div class="year-label">2025</div>
+    <div class="pub-entries">
+      <div class="pub-entry">Xavier Salleras. <em>Homomorphic Encryption-based Vaults for Anonymous Balances on VM-enabled Blockchains</em>. Manuscript (2025).</div>
+    </div>
+  </div>
+  <div class="year-group">
+    <div class="year-label">2023</div>
+    <div class="pub-entries">
+      <div class="pub-entry">Xavier Salleras. <em>Zero-knowledge proofs for self-sovereign identities in decentralized services</em>. PhD Thesis (Universitat Pompeu Fabra) (2023).</div>
+      <div class="pub-entry">Xavier Salleras. <em>Citadel: Self-sovereign identities on Dusk Network</em>. Manuscript (2023).</div>
+    </div>
+  </div>
+  <div class="year-group">
     <div class="year-label">2022</div>
     <div class="pub-entries">
       <div class="pub-entry">Xavier Salleras, Sergi Rovira, Vanesa Daza. <em>FORT: Right-Proving and Attribute-Blinding Self-Sovereign Authentication</em>. Special issue <em>Advances in Blockchain Technology</em> of the journal <em>Mathematics</em> (2022).</div>
