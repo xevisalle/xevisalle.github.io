@@ -1,4 +1,5 @@
 title: Xavier Salleras
 author: xevisalle
 logo: /images/xevi.jpg
-theme: jekyll-theme-minimal
+description: Security Researcher. PhD in Applied Cryptography.
+permalink: /blog/:year/:month/:day/:title/
